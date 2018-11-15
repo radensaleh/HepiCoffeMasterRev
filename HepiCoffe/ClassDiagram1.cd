@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HepiCoffe.Controller.AppController">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAEAAAAAAAQAIAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controller\AppController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HepiCoffe.Model.Drink">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAQAAAAEAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Drink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HepiCoffe.Model.Invoice">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAIAAAAAJAAAIAAAAAAEEAABgAAAA=</HashCode>
+      <FileName>Model\Invoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HepiCoffe.Model.User">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAEAAAAAAAAAAAAAAAAAAgEAABAAAAEAAAAAAA=</HashCode>
+      <FileName>Model\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HepiCoffe.Repository.DrinkCollection">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAEAQAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\DrinkCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HepiCoffe.View.ConfirmationOrderWindow">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAQAAAAAAAAAAAAAAAAAAEAAEAAAAACAAAAAAAAA=</HashCode>
+      <FileName>View\ConfirmationOrderWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HepiCoffe.MainWindow">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAEAAAIAAABBAAAgAIAAAAAAAAQAAAACACAAAAAAA=</HashCode>
+      <FileName>View\MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HepiCoffe.View.DetailOrder">
+    <Position X="3.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAQAAACAAAAAAAAAAAAAAEAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>View\DetailOrder.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
